@@ -1,0 +1,5 @@
+Afetr downloading all .rar files
+
+1. Select them all
+2. Right Click
+3. Choose "Extract Here"
